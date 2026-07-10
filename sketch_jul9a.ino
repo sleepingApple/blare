@@ -10,18 +10,18 @@
 #define TFT_SCLK 21
 #define TFT_MOSI 20
 
+#define button1pin 3
+#define button2pin 2
+#define button3pin 1
+#define button4pin 0
+#define button5pin 4
+#define buzzerpin 5
+#define backlightpin 6
+
 Adafruit_ST7789 tft = Adafruit_ST7789(TFT_CS, TFT_DC, TFT_MOSI, TFT_SCLK, TFT_RST);
 
 bool alarmOn = false;
 bool snooze = false;
-
-const int button1pin = 3;
-const int button2pin = 2;
-const int button3pin = 1;
-const int button4pin = 0;
-const int button5pin = 4;
-const int buzzerpin = 5;
-const int backlightpin = 6;
 
 int button1State = 0;
 int button2State = 0;
