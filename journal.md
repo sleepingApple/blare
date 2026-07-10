@@ -24,8 +24,11 @@ Took me awhile, I had a problem with the sizing on the keyboard switches and the
 https://cad.onshape.com/documents/c865e1741953e250d1f8fffb/w/61e1c7a317438e2814cf7f72/e/11182019f6b285eb2ef500b9 
 <img width="1676" height="860" alt="Screenshot 2026-07-09 at 5 09 04 PM" src="https://github.com/user-attachments/assets/487c7815-3049-412a-811b-cd59eb5817ce" />
 
-5:00-6:00 
-I can finally move on to the firmware now.
+6:00 - 8:00
+Working on firmware. 
+
+<img width="1694" height="690" alt="Screenshot 2026-07-09 at 7 48 00 PM" src="https://github.com/user-attachments/assets/d4f5f733-22c8-4d20-ad01-80770d1c93b2" />
+
 
 
 
